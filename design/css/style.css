@@ -37,7 +37,7 @@ h1 {
 main {
     padding: 100px 0;
     opacity: 80%;
-    background: linear-gradient(45deg,rgba(62,237,225,0.7),rgba(181,170,253,0.9),rgba(62,237,225,0.7),rgba(181,170,253,0.9)) no-repeat;
+    background: conic-gradient(from 0deg at 50% 50%, rgba(62, 237, 225, 0.70) 72.0000010728836deg, rgba(181, 170, 253, 0.90) 144.0000021457672deg, rgba(62, 237, 225, 0.70) 216.00000858306885deg, rgba(181, 170, 253, 0.90) 288.0000042915344deg);
 }
 
 /****************************
